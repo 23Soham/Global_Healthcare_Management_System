@@ -27,3 +27,26 @@ The Global Healthcare Management System aims to transform how healthcare is deli
 Below is the Entity-Relationship Diagram (ERD) for the Global Healthcare Management System:
 
 ![image](https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/0792b742-438d-4fdf-9902-d77b754828ba)
+
+
+## Graphical User Interface (GUI) 
+Below are the glimpses of GUI Pages of Global Healthcare Management System:
+
+<img width="637" alt="Screenshot 2024-05-12 at 5 19 10 PM" src="https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/75cede1e-ac7e-4f39-bd85-b5736d2fb74d">
+<img width="628" alt="Screenshot 2024-05-12 at 5 20 36 PM" src="https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/38557fea-a5d7-4965-98b5-966289272bef">
+<img width="831" alt="Screenshot 2024-05-12 at 5 24 51 PM" src="https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/bdfac945-e6d8-42ae-8b51-db7b3d938ba7">
+
+
+## Visualizations
+
+<img width="833" alt="Screenshot 2024-05-12 at 5 26 54 PM" src="https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/49da220c-dbf8-4dc4-9d0a-cbaffeb56da1">
+
+This dashboard offers a visual breakdown of common illnesses by region, allowing us to see at a glance where certain health issues are more prevalent. The treemap and global map combine to show which countries are dealing with high cases of diseases like Blood Pressure, Diabetes, COVID-19, and Flu. The bar graphs at the bottom compare these illnesses across four major countries, providing a clear perspective on trends and current health challenges. This kind of detailed regional analysis helps in making informed decisions on where to focus healthcare efforts and resources.
+
+<img width="832" alt="Screenshot 2024-05-12 at 5 27 11 PM" src="https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/297c3fac-a551-49d6-9981-b50488233e60">
+
+This dashboard focuses on the distribution of illnesses across different genders. It includes a pie chart that presents a gender-based breakdown of illnesses such as BP, Diabetes, COVID19, and Flu, showing the percentage and number of cases attributed to each gender. The bar graph below the pie chart further details the number of cases for each illness by gender, providing a clear visual comparison. This visualization aids in identifying any gender disparities in health conditions and can be pivotal in tailoring gender-specific health interventions.
+
+<img width="831" alt="Screenshot 2024-05-12 at 5 27 24 PM" src="https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/e336dab3-e631-4a19-ad94-ef35b0e65f13">
+
+This dashboard drills into the popularity, utilization, and trends within healthcare records over the year. The line graph presents a monthly record collection report, showing peaks and troughs in data collection throughout the year, which could correspond to seasonal health trends or operational changes. The pie chart and bar graph below highlight the most popular healthcare institutions and the most trusted doctors based on the number of visits, respectively. This kind of visualization is crucial for healthcare administrators to assess performance, patient preferences, and to strategize for improvements in healthcare delivery.

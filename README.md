@@ -23,3 +23,7 @@ The Global Healthcare Management System aims to transform how healthcare is deli
 - Cost evaluation
 - Remote patient monitoring
 
+## ERD Diagram
+Below is the Entity-Relationship Diagram (ERD) for the Global Healthcare Management System:
+
+![image](https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/0792b742-438d-4fdf-9902-d77b754828ba)

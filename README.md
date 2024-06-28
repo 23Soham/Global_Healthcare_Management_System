@@ -1,5 +1,7 @@
 # Global_Healthcare_Management_System(GHMS)
 
+![image](https://github.com/23Soham/Global_Healthcare_Management_System/assets/144841969/29527fb3-caab-4d3a-8ee9-5285885c5375)
+
 ## Background
 Due to today's fast-paced lifestyle, people move frequently, whether they are traveling or just moving around. This makes it difficult to keep and transport physical medical data records and prevents individuals from receiving optimal care. Hospitals, doctors, and patients can diagnose and treat ailments more promptly and efficiently when remote and on-demand access to patient data is made possible.
 
